@@ -1,0 +1,7 @@
+C:\Development\QDWorkshop\QDWorkshop\bin\Debug\QDWorkshop.exe.config
+C:\Development\QDWorkshop\QDWorkshop\bin\Debug\QDWorkshop.exe
+C:\Development\QDWorkshop\QDWorkshop\bin\Debug\QDWorkshop.pdb
+C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.csprojAssemblyReference.cache
+C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.csproj.CoreCompileInputs.cache
+C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.exe
+C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.pdb
