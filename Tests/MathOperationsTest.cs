@@ -11,16 +11,22 @@ namespace Tests
         public void ShouldMultiply2Integers()
         {
             //Arrange
-            var x = 2;
-            var y = 3;
+            string x = "first";
+            string y = "second";
             var expected = "x * y = 6";
-            IMathOperations mathOperations = new MathOperations(x, y);
+            IConjoin mathOperations = new Conjoin(x, y);
 
             //Act
-            var result = mathOperations.Multiply();
+            var result = mathOperations.ConjoinFunc();
 
             //Assert
             Assert.AreEqual(expected, result);
         }
     }
+
+    public class ConjoinTest
+    {
+
+    }
+
 }
