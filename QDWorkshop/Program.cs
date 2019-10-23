@@ -17,6 +17,7 @@ namespace QDWorkshop
 
             var mathOperations = new MathOperations(x, y);
             Console.WriteLine(mathOperations.Multiply());
+            Console.WriteLine(mathOperations.Divide());
             Console.ReadLine();
         }
     }

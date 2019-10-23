@@ -5,3 +5,9 @@ C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.csprojAssemblyReferenc
 C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.csproj.CoreCompileInputs.cache
 C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.exe
 C:\Development\QDWorkshop\QDWorkshop\obj\Debug\QDWorkshop.pdb
+C:\Users\oskar.lovenstad_qd.ALLTID\Documents\QD_Workshop\QDWorkshop\bin\Debug\QDWorkshop.exe.config
+C:\Users\oskar.lovenstad_qd.ALLTID\Documents\QD_Workshop\QDWorkshop\bin\Debug\QDWorkshop.exe
+C:\Users\oskar.lovenstad_qd.ALLTID\Documents\QD_Workshop\QDWorkshop\bin\Debug\QDWorkshop.pdb
+C:\Users\oskar.lovenstad_qd.ALLTID\Documents\QD_Workshop\QDWorkshop\obj\Debug\QDWorkshop.csprojAssemblyReference.cache
+C:\Users\oskar.lovenstad_qd.ALLTID\Documents\QD_Workshop\QDWorkshop\obj\Debug\QDWorkshop.exe
+C:\Users\oskar.lovenstad_qd.ALLTID\Documents\QD_Workshop\QDWorkshop\obj\Debug\QDWorkshop.pdb
