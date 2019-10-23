@@ -22,5 +22,22 @@ namespace Tests
             //Assert
             Assert.AreEqual(expected, result);
         }
+
+        [TestMethod]
+        public void ShouldAdd2Integers()
+        {
+            //Arrange
+            var x = 2;
+            var y = 3;
+            var expected = "x + y = 5";
+            IMathOperations mathOperations = new MathOperations(x, y);
+
+            //Act
+            var result = mathOperations.Add();
+
+            //Assert
+            Assert.AreEqual(expected, result);
+        }
+
     }
 }

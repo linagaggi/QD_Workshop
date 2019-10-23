@@ -3,6 +3,7 @@
     public interface IMathOperations
     {
         string Multiply();
+        string Add();
     }
     public class MathOperations : IMathOperations
     {
@@ -18,6 +19,12 @@
         public string Multiply()
         {
             return $"x * y = {FirstNumber * SecondNumber}";
+        }
+
+        public string Add()
+        {
+
+            return $"x + y = {FirstNumber + SecondNumber}";
         }
     }
 }
