@@ -10,13 +10,12 @@ namespace QDWorkshop
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Enter first number: ");
-            var x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter second number: ");
-            var y = Convert.ToInt32(Console.ReadLine());
 
-            var mathOperations = new MathOperations(x, y);
-            Console.WriteLine(mathOperations.Multiply());
+            Console.WriteLine("Enter ssn: ");
+            var x = Console.ReadLine();
+
+            var stringOperations = new StringOperations();
+            Console.WriteLine(stringOperations.GetBirthday(x));
             Console.ReadLine();
         }
     }
