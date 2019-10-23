@@ -1,3 +1,4 @@
 *.ide-shm
 *.storage.ide-wal
 *.cache
+/QDWorkshop/.vs/QDWorkshop/v16/Server/sqlite3/storage.ide-wal
