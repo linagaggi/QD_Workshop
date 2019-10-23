@@ -17,6 +17,9 @@ namespace QDWorkshop
             var stringOperations = new StringOperations();
             Console.WriteLine(stringOperations.GetBirthday(x));
             Console.ReadLine();
+
+            Console.WriteLine(mathOperations.Add());
+            Console.ReadLine();
         }
     }
 }
