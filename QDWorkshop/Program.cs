@@ -12,7 +12,7 @@ namespace QDWorkshop
         {
 
             Console.WriteLine("Enter ssn: ");
-            var x = Console.ReadLine();
+            var x = Convert.ToInt32(Console.ReadLine());
 
             var stringOperations = new StringOperations();
             Console.WriteLine(stringOperations.GetBirthday(x));
