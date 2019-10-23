@@ -12,10 +12,10 @@ namespace QDWorkshop
         {
 
             Console.WriteLine("Enter ssn: ");
-            var x = Console.ReadLine();
+            var x = Convert.ToBoolean(Console.ReadLine());
 
             var stringOperations = new StringOperations();
-            Console.WriteLine(stringOperations.GetBirthday(x));
+            Console.WriteLine(stringOperations.GetBirthday(x.ToString()));
             Console.ReadLine();
         }
     }
